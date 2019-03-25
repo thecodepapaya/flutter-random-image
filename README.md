@@ -1,16 +1,11 @@
-# random_image
+# Random Image
 
-A new Flutter project.
+This project was built as part of a Flutter hackathon following the workshop by [Parth Jansari](https://github.com/parth181195) in [IIITV](https://github.com/iiitv).
 
-## Getting Started
+## What it does
 
-This project is a starting point for a Flutter application.
+Originally this app was supposed to parse JSON and use [unsplash api](https://unsplash.com/developers) but since I was not able to build this app at that time, I figured my own way out and used [Unsplash Source](https://source.unsplash.com/) to build this application and changed the URL with every setState build to provide a different image everytime the user taps on the screen.
 
-A few resources to get you started if this is your first Flutter project:
+## ScreenShot
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](flutter_01.png)
